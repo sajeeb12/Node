@@ -1,4 +1,4 @@
-
+// mongodb+srv://SajeebMolla:<db_password>@cluster0.5ljkp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 const express = require('express')
 const cors = require('cors')
 const app = express()
